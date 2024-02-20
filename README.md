@@ -8,4 +8,3 @@ Node.js: v18.16.0
 
 React: v18.2.0
 
-Test: Jest
